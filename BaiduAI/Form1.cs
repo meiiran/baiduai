@@ -22,8 +22,8 @@ namespace BaiduAI
     public partial class Form1 : Form
     {
         private string APP_ID = "119297448";
-        private string API_KEY = "hS3DqvUb0UGHBHv0VvVtqNNt";
-        private string SECRET_KEY = "EknhlBem5MQcb52XMhhyA1Mn6LNiGp18";
+        private string API_KEY = "hS3Dqv*****";
+        private string SECRET_KEY = "EknhlBe*****";//apukey已做隐藏处理
         private Face client = null;
         private bool IsStart = false;
         private FaceLocation location = null;
