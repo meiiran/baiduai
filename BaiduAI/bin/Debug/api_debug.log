@@ -1,0 +1,13 @@
+API调用参数:
+UID: '1' (长度:1)
+GroupID: '' (长度:0)
+UserInfo: '' (长度:0)
+Base64长度: 210788
+响应: {
+  "error_code": 222006,
+  "error_msg": "group_id format error",
+  "log_id": 3763357296,
+  "timestamp": 1750564585,
+  "cached": 0,
+  "result": null
+}
